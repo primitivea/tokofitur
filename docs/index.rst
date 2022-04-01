@@ -56,4 +56,6 @@ KEUNTUNGAN:
 2. Banyak cara untuk melakukan promosi yang tidak memerlukan biaya, mulai dari website gratis, search engine organizer, komunitas jejaring sosial hingga berbagai event yang diadakan oleh Tokopedia untuk membantu promosi para membernya.
 3. Fitur tampilkan lebih banyak konten
 
+Learn more at :doc:`/tutorial`
+
 Informasi ini disampaikan oleh tim `Giftcard.co.id <https://www.giftcard.co.id/>`_
